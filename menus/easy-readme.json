@@ -1,0 +1,51 @@
+{
+  "menu": [
+    { "label": "Packages", "submenu": [
+        { "label": "Easy-README", "submenu": [
+            { "label": "Add in default format", "command": "easy-readme:addInDefaultFormat" },
+            { "label": "Add module", "submenu": [
+                { "label": "Title and Description", "command": "easy-readme:add-title-and-description" },
+                { "label": "Acknowledgements", "command": "easy-readme:add-acknowledgements" },
+                { "label": "API Reference", "command": "easy-readme:add-api-reference" },
+                { "label": "Appendix", "command": "easy-readme:add-appendix" },
+                { "label": "Authors", "command": "easy-readme:add-authors" },
+                { "label": "Badges", "command": "easy-readme:add-badges" },
+                { "label": "Color Reference", "command": "easy-readme:add-color-reference" },
+                { "label": "Contributing", "command": "easy-readme:add-contributing" },
+                { "label": "Demo", "command": "easy-readme:add-demo" },
+                { "label": "Deployment", "command": "easy-readme:add-deployment" },
+                { "label": "Documentation", "command": "easy-readme:add-documentation" },
+                { "label": "Environment Variables", "command": "easy-readme:add-environment-variables" },
+                { "label": "FAQ", "command": "easy-readme:add-faq" },
+                { "label": "Features", "command": "easy-readme:add-features" },
+                { "label": "Feedback", "command": "easy-readme:add-feedback" },
+                { "label": "Github Profile", "submenu": [
+                  { "label": "About Me", "command": "easy-readme:add-github-profile-about-me" },
+                  { "label": "Introduction", "command": "easy-readme:add-github-profile-introduction" },
+                  { "label": "Links", "command": "easy-readme:add-github-profile-links" },
+                  { "label": "Other", "command": "easy-readme:add-github-profile-other" },
+                  { "label": "Skills", "command": "easy-readme:add-github-profile-skills" }
+                  ]
+                },
+                { "label": "Installation", "command": "easy-readme:add-installation" },
+                { "label": "Lessons", "command": "easy-readme:add-lessons " },
+                { "label": "License", "command": "easy-readme:add-license" },
+                { "label": "Logo", "command": "easy-readme:add-logo" },
+                { "label": "Optimizations", "command": "easy-readme:add-optimizations" },
+                { "label": "Related", "command": "easy-readme:add-related" },
+                { "label": "Roadmap", "command": "easy-readme:add-roadmap" },
+                { "label": "Run Locally", "command": "easy-readme:add-run-locally" },
+                { "label": "Screenshots", "command": "easy-readme:add-screenshots" },
+                { "label": "Support", "command": "easy-readme:add-support" },
+                { "label": "Tech", "command": "easy-readme:add-tech" },
+                { "label": "Running Tests", "command": "easy-readme:add-running-tests" },
+                { "label": "Usage/Examples", "command": "easy-readme:add-usage-examples" },
+                { "label": "Used By", "command": "easy-readme:add-used-by" }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

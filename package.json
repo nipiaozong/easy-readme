@@ -1,0 +1,18 @@
+{
+  "name": "easy-readme",
+  "main": "./lib/easy-readme",
+  "version": "1.0.0",
+  "description": "Customize your README easily.",
+  "keywords": [
+  ],
+  "activationCommands": {
+    "atom-workspace": "easy-readme:addInDefaultFormat"
+  },
+  "repository": "https://github.com/nipiaozong/easy-readme",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}
